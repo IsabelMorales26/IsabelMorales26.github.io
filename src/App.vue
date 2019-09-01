@@ -19,9 +19,10 @@ export default {
   data: ()=>{
     return{
       linkss : [
-      {link: "https://drive.google.com/open?id=10b-7gfpazXnhQf_5NAH8kevu1hk32jj8", desc: "item 1"},
-      {link: "https://drive.google.com/open?id=10b1qtgHCtgf1BLLsn9BFjUsIaM_YH0kS" , desc: "item 2"},
-      {link: "https://drive.google.com/open?id=10JPRSkUJYCHJ1X9_FNMeoTVDQKuU0ipv", desc: "item3"}
+      {link: "https://drive.google.com/open?id=10b-7gfpazXnhQf_5NAH8kevu1hk32jj8", desc: "Anexo 4"},
+      {link: "https://drive.google.com/open?id=10b1qtgHCtgf1BLLsn9BFjUsIaM_YH0kS" , desc: "Anexo 3"},
+      {link: "https://drive.google.com/open?id=10JPRSkUJYCHJ1X9_FNMeoTVDQKuU0ipv", desc: "Anexo 5"},
+      {link: "https://drive.google.com/open?id=1nSQHSty84YK1VRp6Qayl80mzP8LmlqzI", desc: "Anexo 1"}
     ],
      sectionContent : [
        {imgDir : "1.jpeg"},
